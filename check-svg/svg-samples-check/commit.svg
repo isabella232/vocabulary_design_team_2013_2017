@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="10px" id="commit" version="1.1" viewBox="0 0 10 10" width="10px">
-  <defs />
-  <g>
-    <circle cx="5" cy="5" fill="#333333" r="4" />
-    <circle cx="5" cy="5" r="3" />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="commit" width="10" height="10" version="1.1" viewBox="0 0 10 10"><g><circle cx="5" cy="5" r="4" fill="#333"/><circle cx="5" cy="5" r="3"/></g></svg>
